@@ -1,1 +1,2 @@
 # 1994_income
+individual financial status is always hot topic we have been talking about today. Especially what factors are contributing to income raise. We select people who are from different countries(U.S., Jamaica, etc). Also, we are going to dig out the relationship of high income with age, major, race. Personally I think, it’s deserved to analyze because this dataset maybe help us to clarify which factor gains more weight. This means this is more important to our income status.
